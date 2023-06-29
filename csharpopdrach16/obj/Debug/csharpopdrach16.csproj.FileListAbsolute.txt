@@ -1,0 +1,7 @@
+C:\Users\guuss\RiderProjects\csharpopdrach16\csharpopdrach16\bin\Debug\csharpopdrach16.exe
+C:\Users\guuss\RiderProjects\csharpopdrach16\csharpopdrach16\bin\Debug\csharpopdrach16.pdb
+C:\Users\guuss\RiderProjects\csharpopdrach16\csharpopdrach16\obj\Debug\csharpopdrach16.csproj.AssemblyReference.cache
+C:\Users\guuss\RiderProjects\csharpopdrach16\csharpopdrach16\obj\Debug\csharpopdrach16.csproj.SuggestedBindingRedirects.cache
+C:\Users\guuss\RiderProjects\csharpopdrach16\csharpopdrach16\obj\Debug\csharpopdrach16.csproj.CoreCompileInputs.cache
+C:\Users\guuss\RiderProjects\csharpopdrach16\csharpopdrach16\obj\Debug\csharpopdrach16.exe
+C:\Users\guuss\RiderProjects\csharpopdrach16\csharpopdrach16\obj\Debug\csharpopdrach16.pdb
